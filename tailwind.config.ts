@@ -34,13 +34,14 @@ const config = {
           3: "#F5FCFF",
         },
         orange: {
-          1: "#FF742E",
+          1: "#5a3f3f",
         },
         purple: {
           1: "#830EF9",
         },
         yellow: {
-          1: "#F9A90E",
+          // 1: "#F9A90E",
+          1: "#08acc1",
         },
       },
       keyframes: {
@@ -58,7 +59,8 @@ const config = {
         "accordion-up": "accordion-up 0.2s ease-out",
       },
       backgroundImage: {
-        hero: "url('/images/hero-background.png')",
+        // hero: "url('/images/hero-background.png')",
+        hero: "url('/images/hero-bg2.jpg')",
       },
     },
   },
